@@ -85,4 +85,4 @@ If you notice someone abusing the Awards system, [report it here](https://daily.
 
 ## Try it now 
 
-Found a post that helped you out? A comment that nailed it? Head to your [feed](https:/app.daily.dev) and give your first Award. Start with a free sticker—you might make someone’s day.
+Found a post that helped you out? A comment that nailed it? Head to your [feed](https://app.daily.dev) and give your first Award. Start with a free sticker—you might make someone’s day.
